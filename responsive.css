@@ -1,0 +1,11 @@
+@media screen and (max-width: 800px){
+    .content, .side{
+        float: none;
+        width: 100%;
+    } 
+    .side{
+        padding-bottom: 100px;
+    }
+    
+    
+}
